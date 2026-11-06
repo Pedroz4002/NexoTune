@@ -17,6 +17,7 @@ O app funciona no Windows 10 e 11 x64 com .NET Framework 4.7.2 ou posterior. Alg
 ## O que você encontra no app
 
 - **Ajustes** com interruptores, perfis e backup automático dos valores anteriores.
+- **Teclado e mouse** com controles de aceleração, atraso de repetição e Teclas de Filtro.
 - **GPU e jogos** com detecção da placa, medição de uso e memória e preferências gráficas do Windows.
 - **Rede** com medições de ping e variação, perda de respostas e traçado de rota.
 - **Aplicativos** com desinstalação individual e quarentena para programas elegíveis.
